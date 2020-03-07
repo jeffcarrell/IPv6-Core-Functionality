@@ -27,6 +27,10 @@ An IPv6 cheat sheet pdf.
 
 ### Additional info:
 
+https://www.chappell-university.com/books
+
+https://www.chappell-university.com/traces
+
 https://wiki.wireshark.org/SampleCaptures
 
 https://www.netresec.com/?page=PcapFiles
